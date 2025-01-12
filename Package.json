@@ -1,3 +1,4 @@
+'''json
 {
   "name": "phoenix-os-arc",
   "version": "0.1.0",
@@ -18,3 +19,4 @@
     "postcss": "latest"
   }
 }
+'''
