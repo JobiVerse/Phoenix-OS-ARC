@@ -1,4 +1,3 @@
-
 ```javascript
 module.exports = {
   content: [
